@@ -17,14 +17,4 @@ React + Flask mimarisi ile geliştirilmiştir.
 - 🧠 Toplam odaklanma sayısı (localStorage ile)
 ---
 
-## 📁 Proje Yapısı
 
-taskman/
-├── backend/
-│ ├── app.py # Flask API
-│ └── data/ # Kullanıcı ve görev verileri (JSON)
-├── frontend/
-│ ├── src/ # React bileşenleri
-│ ├── public/ # Statik dosyalar
-│ └── package.json
-└── README.md # Bu dosya
