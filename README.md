@@ -30,3 +30,30 @@ React + Flask mimarisi ile geliştirilmiştir.
 🔗 GitHub: [github.com/c4nng](https://github.com/c4nng)  
 ✉️ E-posta: ecan8320@gmail.com  
 📌 LinkedIn: [linkedin.com/in/c4nng](https://linkedin.com/in/c4nng)
+
+---
+
+# 🚀 TaskMan – Build Sürümü Nasıl Çalıştırılır?
+
+
+Bu versiyon, **TaskMan** uygulamasının sadece çalıştırmaya hazır olan build edilmiş halidir.  
+React frontend `dist/` klasöründe yer alır ve Flask backend tarafından otomatik sunulur.
+
+
+---
+
+## ▶️ Nasıl Çalıştırılır?
+
+### 1. Python ile çalıştır:
+
+```bash
+python app.py
+```
+### 2. Uygulamaya eriş
+
+```bash
+http://localhost:5000
+```
+
+
+
