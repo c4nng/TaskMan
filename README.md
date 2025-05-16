@@ -19,3 +19,14 @@ React + Flask mimarisi ile geliştirilmiştir.
 
 ![Ekran Görüntüsü](./image.png)
 
+---
+
+## 👨‍💻 Geliştirici
+
+**Enes Can Adil**  
+💻 Python, React, Flask, Siber Güvenlik  
+🌍 Türkiye
+
+🔗 GitHub: [github.com/c4nng](https://github.com/c4nng)  
+✉️ E-posta: ecan8320@gmail.com  
+📌 LinkedIn: [linkedin.com/in/c4nng](https://linkedin.com/in/c4nng)
