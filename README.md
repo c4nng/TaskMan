@@ -5,6 +5,9 @@ React + Flask mimarisi ile geliştirilmiştir.
 
 ---
 
+**Not**, Frontend ve Backend klasörlerinde projenin saf kaynak kodlarını bulabilirsiniz build edilmiş versiyon **TaskMan-Build** klasöründedir.
+
+---
 ## 🚀 Özellikler
 
 - 🧍‍♂️ Kullanıcı kayıt ve giriş sistemi
