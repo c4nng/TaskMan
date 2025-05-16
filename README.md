@@ -17,4 +17,5 @@ React + Flask mimarisi ile geliştirilmiştir.
 - 🧠 Toplam odaklanma sayısı (localStorage ile)
 ---
 
+![Ekran Görüntüsü](./image.png)
 
